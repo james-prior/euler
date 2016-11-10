@@ -2,7 +2,8 @@ These files, mostly [Jupyter](http://jupyter.org/) notebook files,
 are from trying to solve various
 [Project Euler](https://en.wikipedia.org/wiki/Project_Euler)
 [problems](https://projecteuler.net/archives)
-especially at [COhPy](http://www.cohpy.org/) weekly dojos.
+especially at [COhPy](http://www.cohpy.org/) weekly
+[dojo](http://www.meetup.com/Central-Ohio-Python-Users-Group/)s.
 
 Many are to illustrate some point, especially for someone else at a dojo.
 Many are just playing around.
